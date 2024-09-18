@@ -1,3 +1,7 @@
+This repo is a demonstration of a potential bug in the webex sdk library, see here https://github.com/webex/webex-js-sdk/issues/3841.
+This repo IS NOT WORKING, do not use it as a base for development.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
